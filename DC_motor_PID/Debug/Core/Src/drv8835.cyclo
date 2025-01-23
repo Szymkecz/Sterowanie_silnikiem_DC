@@ -1,0 +1,4 @@
+../Core/Src/drv8835.c:11:6:drv8835_init	1
+../Core/Src/drv8835.c:19:6:drv8835_mode_control	3
+../Core/Src/drv8835.c:26:6:drv8835_set_motorA_direction	3
+../Core/Src/drv8835.c:33:6:drv8835_set_motorA_speed	2
